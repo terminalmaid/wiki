@@ -1,6 +1,7 @@
 # Бесплатный плащ
 
-Fabulously Optimized поддерживает плаши от Mojang, OptiFine, MinecraftCapes mod, LabyMod, Wynntils и Cosmetica.
+Fabulously Optimized поддерживает плащи от Mojang, OptiFine, MinecraftCapes
+, LabyMod, Wynntils и Cosmetica.
 
 ### Как получить бесплатный плащ
 
